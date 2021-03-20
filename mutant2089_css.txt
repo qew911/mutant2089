@@ -1,0 +1,413 @@
+         <div class="sheet-column33-fixed sheet-border-thick">
+             <div class="center"><img alt="Mutant(1984)" class="sheet-logo" src="https://cf.geekdo-images.com/mdJqpKrDp6zFArnqFegljQ__thumb/img/wuyHuBGkPjorMpi6Tq3M0s8fgmI=/fit-in/200x150/filters:strip_icc()/pic766923.jpg" /></div>
+            <div class="sheet-header sheet-border-bottom-thin">ROLLPERSONENS NAMN</div>
+            <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_rpnamn" /></div>
+            
+            <div class="sheet-row sheet">
+             <div class="sheet-row sheet-border-bottom-thin ">
+               <div class="sheet-column50 sheet-orangeField">KLASS</div>
+               <div class="sheet-column50 sheet-justInput"><input type="text" name="attr_klass" /></div>
+               </div>
+               <div class="sheet-row sheet-border-bottom-thin ">
+               <div class="sheet-column50 sheet-orangeField">TIDIGARE YRKE</div>
+               <div class="sheet-column50 sheet-justInput"><input type="text" name="attr_yrke" /></div>
+             </div>
+             <div class="sheet-row sheet-border-bottom-thin ">
+               <div class="sheet-column50 sheet-orangeField">ÅLDER</div>
+               <div class="sheet-column50 sheet-justInput"><input type="text" name="attr_alder" /></div>
+             </div>
+             <div class="sheet-row sheet-border-bottom-thin ">
+               <div class="sheet-column50 sheet-orangeField">LÄNGD</div>
+               <div class="sheet-column50 sheet-justInput"><input type="text" name="attr_langd" /></div>
+             </div>
+             <div class="sheet-row sheet-border-bottom-thin ">
+               <div class="sheet-column50 sheet-orangeField">VIKT</div>
+               <div class="sheet-column50 sheet-justInput"><input type="text" name="attr_vikt" /></div>
+             </div>
+             <div class="sheet-row sheet-border-bottom-thin ">
+               <div class="sheet-column50 sheet-orangeField">HUVUDHAND</div>
+               <div class="sheet-column50 sheet-justInput"><input type="text" name="attr_huvudhand" /></div>
+             </div>
+             <div class="sheet-row sheet-border-bottom-thin ">
+                 <div class="sheet-column100 sheet-orangeField">FORDRINGSÄGARE</div>
+               <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_agare1" /></div>
+               <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_agare2" /></div>
+             </div>
+             <div class="sheet-row sheet-border-bottom-thin ">
+               <div class="sheet-column50 sheet-orangeField">SKULD</div>
+               <div class="sheet-column50 sheet-justInput"><input type="text" name="attr_skuld" /></div>
+             </div>
+             <div class="sheet-row sheet-border-bottom-thin ">
+                 <div class="sheet-column100 sheet-orangeField">UTSEENDE</div>
+               <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_utseende1" /></div>
+               <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_utseende2" /></div>
+               <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_utseende3" /></div>
+               <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_utseende4" /></div>
+             </div>
+             </div>
+         <div class="sheet-column33-fixed sheet-border-thick sheet">
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column50 sheet-orangeField ">STY</div>
+             <div class="sheet-column50 "><input type="number" name="attr_styrka" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column50 sheet-orangeField">INT</div>
+             <div class="sheet-column50"><input type="number" name="attr_intelligens" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column50 sheet-orangeField">PER</div>
+             <div class="sheet-column50"><input type="number" name="attr_personlighet" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column50 sheet-orangeField">SMI</div>
+             <div class="sheet-column50"><input type="number" name="attr_smidighet" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column50 sheet-orangeField">STO</div>
+             <div class="sheet-column50"><input type="number" name="attr_storlek" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column50 sheet-orangeField">FYS</div>
+             <div class="sheet-column50"><input type="number" name="attr_fysik" /></div>
+           </div>
+           <div class="sheet-row">
+             <div class="sheet-column50 sheet-orangeField">MSI</div>
+             <div class="sheet-column50"><input type="number" name="attr_mentalstyrka" /></div>
+           </div>
+         </div>
+         
+         <div class="sheet-column33-fixed sheet-border-thick sheet">
+             <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+               <div class="sheet-column50 sheet-orangeField">BAKGRUNDSPOÄNG</div>
+               <div class="sheet-column50 sheet-justInput"><input type="text" name="attr_bp" /></div>
+             </div>
+             <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+               <div class="sheet-column50 sheet-orangeField">KROPPSPOÄNG</div>
+               <div class="sheet-column50 sheet-justInput"><input type="text" name="attr_kroppspoäng" /></div>
+             </div>
+             <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+               <div class="sheet-column50 sheet-orangeField">SKADEBONUS</div>
+               <div class="sheet-column50 sheet-justInput"><input type="text" name="attr_skadebonus" /></div>
+             </div>
+             <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+               <div class="sheet-column50 sheet-orangeField">FÖRFLYTTNING</div>
+               <div class="sheet-column50 sheet-justInput"><input type="text" name="attr_forflyttning" /></div>
+             </div>
+             <div class="sheet-row sheet-border-right-thick">
+               <div class="sheet-column50 sheet-orangeField ">PENGAR</div>
+               <div class="sheet-column50 sheet-justInput"><input type="text" name="attr_pengar" /></div>
+             </div>
+             
+             <div class="sheet-column33-fixed sheet-border-thick">
+           <div class="sheet-header sheet-border-bottom-thin">CYBER/ROBO-TEKNIK/MUTATIONER</div>
+           <div class="sheet-whiteFieldWithInput "><input type="text" name="attr_mutation1"/></div>
+           <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_mutation2"/></div>
+           <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_mutation3"/></div>
+           <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_mutation4"/></div>
+           <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_mutation5"/></div>
+           <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_mutation6"/></div>
+           <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_mutation7"/></div>
+           <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_mutation8"/></div>
+           <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_mutation9"/></div>
+           <div class="sheet-whiteFieldWithInput"><input type="text" name="attr_mutation10"/></div>
+           <div class="sheet-whiteFieldWithInput sheet-border-bottom-thick"><input type="text" name="attr_mutation11"/></div>
+           
+         </div>
+         
+         </div>
+       </div>
+       <div class="sheet-row">
+         <div class="sheet-column33-fixed sheet-border-right-thick sheet-border-left-thick sheet-border-thick">
+         
+           <div class="sheet-header sheet-border-bottom-thin">FÄRDIGHETER</div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">DATORKUNSKAP</div>
+             <div class="sheet-column33 "><input type="text" name="attr_dator" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">ELEKTRONIK</div>
+             <div class="sheet-column33 "><input type="text" name="attr_elektronik" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">FINGERFÄRDIGHET</div>
+             <div class="sheet-column33 "><input type="text" name="attr_finger" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">FIXARE</div>
+             <div class="sheet-column33 "><input type="text" name="attr_fixare" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">FLYGFORDON</div>
+             <div class="sheet-column33 "><input type="text" name="attr_flyga" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">FÖRFALSKNING</div>
+             <div class="sheet-column33 "><input type="text" name="attr_forfalska" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">FÖRSTA HJÄLPEN</div>
+             <div class="sheet-column33 "><input type="text" name="attr_firstaid" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">GÖMMA SIG</div>
+             <div class="sheet-column33 "><input type="text" name="attr_hide" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">IAKtTAGELSEFORMAGA</div>
+             <div class="sheet-column33 "><input type="text" name="attr_aiktta" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">MARKFORDON</div>
+             <div class="sheet-column33 "><input type="text" name="attr_fordon" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">MEDICIN</div>
+             <div class="sheet-column33 "><input type="text" name="attr_medicin" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">RÖRLIGA MANÖVRAR</div>
+             <div class="sheet-column33 "><input type="text" name="attr_move" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">SIMMA</div>
+             <div class="sheet-column33 "><input type="text" name="attr_simma" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">SPRÅK</div>
+             <div class="sheet-column33 "><input type="text" name="attr_speak" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">SPÅRA</div>
+             <div class="sheet-column33 "><input type="text" name="attr_track" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">TEKNIK</div>
+             <div class="sheet-column33 "><input type="text" name="attr_teknik" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">ÖVERLEVNAD</div>
+             <div class="sheet-column33 "><input type="text" name="attr_survive" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">ÖVERTYGA</div>
+             <div class="sheet-column33 "><input type="text" name="attr_overtyga" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">AUTOMATVAPEN</div>
+             <div class="sheet-column33 "><input type="text" name="attr_auto" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">ENERGIVAPEN</div>
+             <div class="sheet-column33 "><input type="text" name="attr_energy" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">ENHANDS NÄSTRIDS.V</div>
+             <div class="sheet-column33 "><input type="text" name="attr_cc1" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">GEVÄR</div>
+             <div class="sheet-column33 "><input type="text" name="attr_rifle" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">KASTVAPEN</div>
+             <div class="sheet-column33 "><input type="text" name="attr_kast" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">KNIV</div>
+             <div class="sheet-column33 "><input type="text" name="attr_kniv" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">MILITÄRA VAPEN</div>
+             <div class="sheet-column33 "><input type="text" name="attr_military" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">OBEVÄPNAD STRID</div>
+             <div class="sheet-column33 "><input type="text" name="attr_unarmed" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">PISTOL</div>
+             <div class="sheet-column33 "><input type="text" name="attr_pistol" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin">
+             <div class="sheet-column66 sheet-orangeField ">TVÅHANDS NÄRSTRIDS.V</div>
+             <div class="sheet-column33 "><input type="text" name="attr_cc2" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thick">
+             <div class="sheet-column66 sheet-orangeField ">UNDVIKA</div>
+             <div class="sheet-column33 "><input type="text" name="attr_undvika" /></div>
+           </div>
+           
+         </div>
+         <div class="sheet-column33-fixed sheet-border-thick">
+         <div class="sheet-header sheet-border-right-thick sheet-border-bottom-thin">Utrustning</div>
+         
+         <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning1"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning1_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning2"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning2_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning3"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning3_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning4"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning4_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning5"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning5_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning6"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning6_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning7"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning7_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning8"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning8_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning9"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning9_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning10"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning10_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning11"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning11_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning12"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning12_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-bottom-thin sheet-border-right-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning13"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning13_vikt" /></div>
+           </div>
+           <div class="sheet-row sheet-border-right-thick sheet-border-bottom-thick">
+             <div class="sheet-column66 sheet-whiteFieldWithInput2"><input type="text" name="attr_utrustning14"/></div>
+             <div class="sheet-column33 "><input type="text" name="attr_utrustning14_vikt" /></div>
+           </div>
+         
+           
+          
+         </div>
+       </div>
+       
+       <div class="sheet-row">
+       <div class="sheet-header sheet-border-right-thick sheet-border-left-thick sheet-border-thick">VAPEN</div>     
+          <div class="sheet-weaponName-column sheet-border-left-thick">
+             
+             <span class="sheet-header2">NAMN</span>
+          </div>
+          <div  class="sheet-weapon-column"><span class="sheet-header2">SKADA</span></div>
+          <div  class="sheet-weapon-column"><span class="sheet-header2">VIKT</span></div>
+          <div  class="sheet-weapon-column"><span class="sheet-header2">RÄCKV</span></div>
+          <div  class="sheet-weapon-column"><span class="sheet-header2">SALVA</span></div>
+          <div  class="sheet-weapon-column"><span class="sheet-header2">OML</span></div>
+          <div  class="sheet-weapon-column"><span class="sheet-header2">MAG</span></div>
+          <div  class="sheet-weapon-column sheet-border-right-thick"><span class="sheet-header2">EV</span></div>
+        </div>
+        <div class="sheet-row">
+          <div class="sheet-weaponName-column sheet-border-left-thick ">
+             <input type="text" name="attr_weapon1_name"/>
+          </div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon1_anf"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon1_par"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon1_skada"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon1_vikt"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon1_bv"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon1_rackv"/></div>
+          <div  class="sheet-weapon-column sheet-border-right-thick"><input type="text" name="attr_weapon1_eldh"/></div>
+        </div>
+        <div class="sheet-row">
+          <div class="sheet-weaponName-column sheet-border-left-thick ">
+             <input type="text" name="attr_weapon2_name"/>
+          </div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon2_anf"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon2_par"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon2_skada"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon2_vikt"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon2_bv"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon2_rackv"/></div>
+          <div  class="sheet-weapon-column sheet-border-right-thick"><input type="text" name="attr_weapon2_eldh"/></div>
+        </div>
+        <div class="sheet-row">
+          <div class="sheet-weaponName-column sheet-border-left-thick ">
+             <input type="text" name="attr_weapon3_name"/>
+          </div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon3_anf"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon3_par"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon3_skada"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon3_vikt"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon3_bv"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon3_rackv"/></div>
+          <div  class="sheet-weapon-column sheet-border-right-thick"><input type="text" name="attr_weapon3_eldh"/></div>
+        </div><div class="sheet-row">
+          <div class="sheet-weaponName-column sheet-border-left-thick ">
+             <input type="text" name="attr_weapon4_name"/>
+          </div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon4_anf"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon4_par"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon4_skada"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon4_vikt"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon4_bv"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon4_rackv"/></div>
+          <div  class="sheet-weapon-column sheet-border-right-thick"><input type="text" name="attr_weapon4_eldh"/></div>
+        </div>
+        </div><div class="sheet-row">
+          <div class="sheet-weaponName-column sheet-border-left-thick ">
+             <input type="text" name="attr_weapon5_name"/>
+          </div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon5_anf"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon5_par"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon5_skada"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon5_vikt"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon5_bv"/></div>
+          <div  class="sheet-weapon-column"><input type="text" name="attr_weapon5_rackv"/></div>
+          <div  class="sheet-weapon-column sheet-border-right-thick"><input type="text" name="attr_weapon5_eldh"/></div>
+        </div>
+        <div class="sheet-row ">
+          <div class="sheet-weaponName-column sheet-border-left-thick sheet-border-bottom-thick">
+             <input type="text" name="attr_weapon6_name"/>
+          </div>
+          <div  class="sheet-weapon-column sheet-border-bottom-thick"><input type="text" name="attr_weapon6_anf"/></div>
+          <div  class="sheet-weapon-column sheet-border-bottom-thick"><input type="text" name="attr_weapon6_par"/></div>
+          <div  class="sheet-weapon-column sheet-border-bottom-thick"><input type="text" name="attr_weapon6_skada"/></div>
+          <div  class="sheet-weapon-column sheet-border-bottom-thick"><input type="text" name="attr_weapon6_vikt"/></div>
+          <div  class="sheet-weapon-column sheet-border-bottom-thick"><input type="text" name="attr_weapon6_bv"/></div>
+          <div  class="sheet-weapon-column sheet-border-bottom-thick"><input type="text" name="attr_weapon6_rackv"/></div>
+          <div  class="sheet-weapon-column sheet-border-bottom-thick sheet-border-right-thick"><input type="text" name="attr_weapon6_eldh"/></div>
+        </div>
+        
+            <div class="sheet-column100-fixed sheet-border-left-thick sheet-border-thick">
+                <div class="sheet-row">
+                <div class="sheet-header sheet-border-right-thick">RUSTNING / SKÖLD</div>
+                <div  class="sheet-armor-column"><span class="sheet-header2">NAMN</span></div>
+                <div  class="sheet-armor-columnS"><span class="sheet-header2">ABS</span></div>
+                <div  class="sheet-armor-columnS"><span class="sheet-header2">VIKT</span></div>
+                <div class="sheet-row">
+                </div>
+                   <input type="text" class="sheet-newNewJustInput" placeholder="NAMN" name="attr_rustning1_abs" />
+                   <input type="text" class="sheet-newJustInput" placeholder="ABS" name="attr_rustning1_abs" />
+                   <input type="text" class="sheet-newJustInput" placeholder="VIKT" name="attr_rustning1_vikt" /></div>
+                <div class="sheet-row">
+                  <input type="text" class="sheet-newNewJustInput" placeholder="NAMN" name="attr_rustning2_abs" />
+                   <input type="text" class="sheet-newJustInput" placeholder="ABS" name="attr_rustning2_abs" />
+                   <input type="text" class="sheet-newJustInput" placeholder="VIKT" name="attr_rustning2_vikt" /></div>
+                    <div class="sheet-row">
+                  <input type="text" class="sheet-newNewJustInput" placeholder="NAMN" name="attr_rustning3_abs" />
+                   <input type="text" class="sheet-newJustInput" placeholder="ABS" name="attr_rustning3_abs" />
+                   <input type="text" class="sheet-newJustInput" placeholder="VIKT" name="attr_rustning3_vikt" /></div>
+                </div>
+            </div>
+        </div>
